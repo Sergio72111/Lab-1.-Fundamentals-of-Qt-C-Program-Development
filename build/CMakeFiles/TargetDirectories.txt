@@ -1,0 +1,3 @@
+C:/Lab1.Qt/Lab-1.-Fundamentals-of-Qt-C-Program-Development/build/CMakeFiles/Calculator.dir
+C:/Lab1.Qt/Lab-1.-Fundamentals-of-Qt-C-Program-Development/build/CMakeFiles/edit_cache.dir
+C:/Lab1.Qt/Lab-1.-Fundamentals-of-Qt-C-Program-Development/build/CMakeFiles/rebuild_cache.dir

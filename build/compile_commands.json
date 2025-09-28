@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Lab1.Qt/Lab-1.-Fundamentals-of-Qt-C-Program-Development/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\Calculator.dir\\calculator.cpp.obj -c C:\\Lab1.Qt\\Lab-1.-Fundamentals-of-Qt-C-Program-Development\\calculator.cpp",
+  "file": "C:\\Lab1.Qt\\Lab-1.-Fundamentals-of-Qt-C-Program-Development\\calculator.cpp",
+  "output": "CMakeFiles\\Calculator.dir\\calculator.cpp.obj"
+}
+]
